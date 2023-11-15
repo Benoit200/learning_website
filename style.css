@@ -826,6 +826,16 @@ footer .btn:hover {
 	opacity: .7;
 }
 
+#rights-text{
+	text-align: center;
+	justify-content: center;
+	background: #eddada;
+	color: black;	
+	height: 10vh;
+	border-radius: 45px;
+	padding-top: 1.5%;
+}
+
 /* =====================MEDIA QUERRIES========================= */
 @media screen and (max-width: 960px) {
 	.footer-container {
