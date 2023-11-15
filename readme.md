@@ -1,4 +1,4 @@
-## LearnEd (E-learning Website)
+## LearnEd (With YICD)
 An educational website for students and programmers 😊😊😊  
 
 ![](pcView.png)
